@@ -1,4 +1,4 @@
 # VoxelCraft - список версий для лаунчера
 # Формат строки: идентификатор|прямая ссылка на voxelcraft.exe
 0.5|
-0.6|
+0.6|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe
