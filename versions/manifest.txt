@@ -1,6 +1,19 @@
-# VoxelCraft - список версий для лаунчера
-# Формат строки: идентификатор|прямая ссылка на voxelcraft.exe
-0.5|https://github.com/kamxil/VoxelCraft/releases/download/v0.5/voxelcraft.exe
-0.6|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe
-0.6.9|https://github.com/kamxil/VoxelCraft/releases/download/v0.6.9/voxelcraft.exe
-0.7|https://github.com/kamxil/VoxelCraft/releases/download/v0.7/voxelcraft.exe
+# VoxelCraft — список версий (manifest v2)
+#
+# Формат:  версия|путь|ссылка|sha256
+#   версия  — идентификатор, например 0.7
+#   путь    — файл внутри папки versions\<версия>\, например voxelcraft.exe
+#   ссылка  — прямая ссылка на файл (GitHub Releases)
+#   sha256  — необязательная контрольная сумма (64 hex-символа)
+#
+# Строка со звёздочкой кладётся в корень лаунчера и общая для всех версий:
+#   *|fonts/Monocraft.ttf|https://...|sha256
+#
+# Старый формат тоже понимается:
+#   0.7|https://.../voxelcraft.exe
+#
+0.7|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7/voxelcraft.exe|23cb41c56b9816eec8919184b9abccfd646ece0bd096728ca3e7ad6a79cdf5c9
+0.6.9|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6.9/voxelcraft.exe|474915ec50e04f0285eefc6f549befbf19ea54fbc4243caba7efa6998c3284fe
+0.6|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe|7fb972719c45554f1a88058247df9f58cf2715139bc4f9d4a1c6a738c8ead636
+0.5|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.5/voxelcraft.exe|d7cf7f9c0461a04f9e69ecd41b76376c5a73a9f7f3f36eccfd04a1d08b3b4b06
+*|fonts/Monocraft.ttf|https://raw.githubusercontent.com/IdreesInc/Monocraft/v4.2.1/dist/Monocraft-ttf/Monocraft.ttf|262e31822e0a75be567b02320bfa092143d871e8a273e529d1c5ab0c04cd215f
