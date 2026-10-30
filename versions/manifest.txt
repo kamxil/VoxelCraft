@@ -12,6 +12,7 @@
 # Старый формат тоже понимается:
 #   0.7|https://.../voxelcraft.exe
 #
+0.7.1|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.1/voxelcraft.exe|a3aeeb2508c233788c94e8de83bc66ed042670465a20fd3250e655ff9a78ab03
 0.7|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7/voxelcraft.exe|23cb41c56b9816eec8919184b9abccfd646ece0bd096728ca3e7ad6a79cdf5c9
 0.6.9|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6.9/voxelcraft.exe|474915ec50e04f0285eefc6f549befbf19ea54fbc4243caba7efa6998c3284fe
 0.6|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe|7fb972719c45554f1a88058247df9f58cf2715139bc4f9d4a1c6a738c8ead636
