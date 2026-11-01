@@ -24,4 +24,4 @@
 0.6|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe|7fb972719c45554f1a88058247df9f58cf2715139bc4f9d4a1c6a738c8ead636
 0.5|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.5/voxelcraft.exe|d7cf7f9c0461a04f9e69ecd41b76376c5a73a9f7f3f36eccfd04a1d08b3b4b06
 *|fonts/Monocraft.ttf|https://raw.githubusercontent.com/IdreesInc/Monocraft/v4.2.1/dist/Monocraft-ttf/Monocraft.ttf|262e31822e0a75be567b02320bfa092143d871e8a273e529d1c5ab0c04cd215f
-!|launcher.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.3/launcher.exe|40e651ce855c4e15739ca4151fbbfc9231c7bf74c8d888283830110f3db933fe
+!|launcher.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.4/launcher.exe|91bbcb8ac81c5adaab38dc3af6fd59e9c14faf725a1f08ddd67b199ae7198ff1
