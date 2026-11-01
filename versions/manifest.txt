@@ -17,10 +17,10 @@
 #   0.7|https://.../voxelcraft.exe
 #
 0.7.3|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.3/voxelcraft.exe|8ae9021b79475cbfaeaa8e695bde45d75b6a57f3fd025384859f1481c5d26271
-0.7.2|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.2/voxelcraft.exe|b8f1dcc76bd3504b31300bea92037e413aa95976126ffb89044c1f7246953c48
-0.7.1|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.1/voxelcraft.exe|a3aeeb2508c233788c94e8de83bc66ed042670465a20fd3250e655ff9a78ab03
-0.7|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7/voxelcraft.exe|23cb41c56b9816eec8919184b9abccfd646ece0bd096728ca3e7ad6a79cdf5c9
-0.6.9|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6.9/voxelcraft.exe|474915ec50e04f0285eefc6f549befbf19ea54fbc4243caba7efa6998c3284fe
+0.7.2|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.2/voxelcraft.exe|de0dfa1e0edf09d0c3507b8d5350e43b67c7bca1d5920e65efdacfb59c810fb4
+0.7.1|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.1/voxelcraft.exe|3eb6be623d778e1e502a628b1703345ea64908d9dee04923f3e43ded0783ebd0
+0.7|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7/voxelcraft.exe|239b06bf7c11b1baddd89785bfcd7390a7f58d2ee0aa89c92d8ec3d6b01dcbcd
+0.6.9|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6.9/voxelcraft.exe|3c87203df5e082c2de3af2fb2496dc5e9d0a8e578bdee5a427e7108227902e1c
 0.6|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe|7fb972719c45554f1a88058247df9f58cf2715139bc4f9d4a1c6a738c8ead636
 0.5|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.5/voxelcraft.exe|d7cf7f9c0461a04f9e69ecd41b76376c5a73a9f7f3f36eccfd04a1d08b3b4b06
 *|fonts/Monocraft.ttf|https://raw.githubusercontent.com/IdreesInc/Monocraft/v4.2.1/dist/Monocraft-ttf/Monocraft.ttf|262e31822e0a75be567b02320bfa092143d871e8a273e529d1c5ab0c04cd215f
