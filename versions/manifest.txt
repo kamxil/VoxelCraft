@@ -21,7 +21,7 @@
 # Старый формат тоже понимается:
 #   0.7|https://.../voxelcraft.exe
 #
-0.8.1|VoxelCraft-0.8.1.zip|https://github.com/kamxil/VoxelCraft/releases/download/v0.8.1/VoxelCraft-0.8.1.zip|abab271553ad3a71d34e502a2e4994b794fe2d801a4170fdec983d2f0c09c17b
+0.8.1|VoxelCraft-0.8.1.zip|https://github.com/kamxil/VoxelCraft/releases/download/v0.8.1/VoxelCraft-0.8.1.zip|e6113ac86253aaaff3bd3b20fb7b61c06dae413352c273726cd1587ae1ef6a0e
 0.8|VoxelCraft-0.8.zip|https://github.com/kamxil/VoxelCraft/releases/download/v0.8/VoxelCraft-0.8.zip|9b44c798cf3058dd0aa242f16b407ea503f53e47f5b422b68c43a81f3bfca0ab
 0.7.4|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.4/voxelcraft.exe|d62bad13fabc1e9fc908a1d58eb3206656cb67ec1329a57d82fe45389e00a622
 0.7.3|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.7.3/voxelcraft.exe|8ae9021b79475cbfaeaa8e695bde45d75b6a57f3fd025384859f1481c5d26271
@@ -32,4 +32,4 @@
 0.6|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.6/voxelcraft.exe|7fb972719c45554f1a88058247df9f58cf2715139bc4f9d4a1c6a738c8ead636
 0.5|voxelcraft.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.5/voxelcraft.exe|d7cf7f9c0461a04f9e69ecd41b76376c5a73a9f7f3f36eccfd04a1d08b3b4b06
 *|fonts/Monocraft.ttf|https://raw.githubusercontent.com/IdreesInc/Monocraft/v4.2.1/dist/Monocraft-ttf/Monocraft.ttf|262e31822e0a75be567b02320bfa092143d871e8a273e529d1c5ab0c04cd215f
-!|launcher.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.8.1/launcher.exe|9192e0baafb260a56d5787d69d9b0c4ae3cf4bab9ac6cb628ef06c4099c90a3a
+!|launcher.exe|https://github.com/kamxil/VoxelCraft/releases/download/v0.8.1/launcher.exe|fcb81f74b19249580b003236f1ccc91417185939815f37260f9ae50538a306fa
